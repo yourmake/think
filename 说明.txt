@@ -3,3 +3,4 @@
 	api
 	admin
 	home
+非常强大 perfect 
